@@ -1,2 +1,2 @@
 # data-analysis-using-python-2025-
-Built an end-to-end hotel booking cancellation analysis project identifying key drivers like ADR (Average Daily Rate), seasonality, and booking channels to improve revenue efficiency.
+This is an end-to-end data analysis project created for my professional portfolio. The project analyzes hotel booking data to solve a real business problem faced by City Hotel and Resort Hotel—high reservation cancellation rates that negatively impact revenue and room utilization.
